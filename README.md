@@ -12,3 +12,7 @@
 
 <a href="https://github.com/minseokle"><img align="center" style="height:180px" src="https://github-readme-stats-amber-theta.vercel.app/api/top-langs/?username=minseokle&layout=compact&theme=nord&hide_border=true" /></a> 
 <a href="https://github.com/minseokle"><img align="center" style="height:180px" src="https://github-readme-stats-amber-theta.vercel.app/api?username=minseokle&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" /></a>
+<div>
+  <h3>Contect</h3>
+  <p><img src="https://img.shields.io/badge/mail-03C75A?style=flat&logo=naver&logoColor=white"/> 0311ben@naver.com </p>
+</div>
