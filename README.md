@@ -1,8 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7FFF1B&height=200&section=header&text=MinSeokLee&fontSize=60"/>
 
 <div>
-  <p>- 🔭 I’m currently working on robit</p>
-  <img src="https://github.com/minseokle/minseokle/assets/51366975/2c506306-8644-416a-930b-3bc27bcbe7d6"/>
+  <p>- 🔭 I’m currently working on robit <img src="https://github.com/minseokle/minseokle/assets/51366975/2c506306-8644-416a-930b-3bc27bcbe7d6" width = "100" height = "100"/></p> 
   <p>- 🌱 I’m currently learning robotics(manipulation, ros, circit)</p>
 </div>
 
