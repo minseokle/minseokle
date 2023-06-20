@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7FFF1B&height=200&section=header&text=Min%20Seok%20Lee&fontSize=60&fontAlignY=40"/>
 
 <div>
-  <p>- 🔭 I’m currently working on robit <img src="https://github.com/minseokle/minseokle/assets/51366975/e8301ea0-9438-4a8f-b0cd-0e29e6d16b92" height = "50" align = "middle"/></p> 
+  <p>- 🔭 I’m currently working for <img src="https://github.com/minseokle/minseokle/assets/51366975/e8301ea0-9438-4a8f-b0cd-0e29e6d16b92" height = "50" align = "middle"/></p> 
   <p>- 🌱 I’m currently learning robotics(manipulation, ros, circit)</p>
   <p>- I'm use   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>  <img src="https://img.shields.io/badge/Ros-22314E?style=flat&logo=ros&logoColor=white"/></p>
 </div>
