@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7FFF1B&height=300&section=header&text=Min Seok Lee%20render&fontSize=90"/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=7FFF1B&height=300&section=header&text=Min Seok Lee%20render&fontSize=90)
 
 
 - 🔭 I’m currently working on robit
