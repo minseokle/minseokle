@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7FFF1B&height=200&section=header&text=Min%20Seok%20Lee&fontSize=60&fontAlignY=40&textBg=true"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7FFF1B&height=200&section=header&text=Min%20Seok%20Lee&fontSize=60&fontAlignY=40"/>
 
 <div>
   <p>- 🔭 I’m currently working on robit <img src="https://github.com/minseokle/minseokle/assets/51366975/2c506306-8644-416a-930b-3bc27bcbe7d6" width = "100" height = "100" align = "middle"/></p> 
