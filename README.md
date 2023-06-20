@@ -8,3 +8,4 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=0311ben)](https://solved.ac/0311ben)
 
 <a href="https://github.com/minseokle"><img align="center" style="height:180px" src="https://github-readme-stats-amber-theta.vercel.app/api/top-langs/?username=minseokle&layout=compact&theme=nord&hide_border=true" /></a> 
+<a href="https://github.com/minseokle"><img align="center" style="height:180px" src="https://github-readme-stats-amber-theta.vercel.app/api?username=minseokle&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" /></a>
