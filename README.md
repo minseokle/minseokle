@@ -1,6 +1,5 @@
-<div align="center>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=#7FFF1B&height=300&section=header&text=Min Seok Lee%20render&fontSize=90"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=#7FFF1B&height=300&section=header&text=Min Seok Lee%20render&fontSize=90"/>
+
 
 - 🔭 I’m currently working on robit
 ![image](https://github.com/minseokle/minseokle/assets/51366975/2c506306-8644-416a-930b-3bc27bcbe7d6)
