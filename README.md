@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=7FFF1B&height=300&section=header&text=MinSeokLee%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=7FFF1B&height=300&section=header&text=MinSeokLee&fontSize=70)
 
 - 🔭 I’m currently working on robit
 ![image](https://github.com/minseokle/minseokle/assets/51366975/2c506306-8644-416a-930b-3bc27bcbe7d6)
