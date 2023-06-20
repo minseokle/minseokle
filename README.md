@@ -6,3 +6,5 @@
 - I'm use   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>  <img src="https://img.shields.io/badge/Ros-22314E?style=flat&logo=ros&logoColor=white"/>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=0311ben)](https://solved.ac/0311ben)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minseokle&langs_count=8)](https://github.com/minseokle/github-readme-stats)
